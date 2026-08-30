@@ -9,7 +9,7 @@ Written answers can be found in the Write up PDF located in this repository
 
 The video is located in the drive link shared above
 
-Screenshot results as requested are attached in the Q2 Folder
+Screenshot results as requested are attached in the Q2 Folder as well as the code snippets for Q2
 
 Q3 
 The video is located in the drive link shared above
