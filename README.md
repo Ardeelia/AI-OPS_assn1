@@ -19,7 +19,7 @@ Screenshot results as requested are attached in the Q3 Folder
 Q4
 The video is located in the drive link shared above
 
-Screenshot results as requested are attached in the Q4 Folder
+Screenshot results as requested are attached in the Q4 Folder for the teammate I am with DA24B048 
 
 The final repo for q4 as done in the video is https://github.com/Ardeelia/Q4
 
