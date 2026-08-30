@@ -6,15 +6,20 @@ Written answers can be found in the Write up PDF located in this repository
 
 Q2 
 Written answers can be found in the Write up PDF located in this repository 
+
 The video is located in the drive link shared above
+
 Screenshot results as requested are attached in the Q2 Folder
 
 Q3 
 The video is located in the drive link shared above
+
 Screenshot results as requested are attached in the Q3 Folder
 
 Q4
 The video is located in the drive link shared above
+
 Screenshot results as requested are attached in the Q4 Folder
+
 The final repo for q4 as done in the video is https://github.com/Ardeelia/Q4
 
